@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-islamic-fx-wad-arrangements
+description: "BIAN Service Domain: Islamic FX Wad Arrangements (Process pattern, Treasury Markets and Sukuk)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Treasury Markets and Sukuk"
+  isb/business-domain: "Islamic Treasury"
+  isb/asset-type: "Wad FX Arrangement"
+  isb/control-record: "Wad FX Arrangement Procedure"
